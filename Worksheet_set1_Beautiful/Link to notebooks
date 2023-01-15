@@ -1,0 +1,6 @@
+git init
+git add README.md  
+git add GeeksForGeeks.ipynb
+git commit -m "notebook first commit" 
+git remote add origin http://localhost:8890/notebooks/Web%20Scrapping%20Assignment%201%20p1.ipynb 
+git push -u origin master
